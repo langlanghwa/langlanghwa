@@ -1,13 +1,11 @@
-# KIM HWA RANG
-  
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHwarang-Kim&count_bg=%23A5D185&title_bg=%2354AE3D&icon=apple.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=4000&pause=3&color=6994CDEE&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+Hwarang's+GitHub!)](https://git.io/typing-svg)
 
 ---
-  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flanglanghwa&count_bg=%2392CD7D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)](https://hits.seeyoufarm.com)
 
-![Hwarang's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hwarang-Kim&show_icons=true&theme=radical)
+[![Hwarang's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=langlanghwa&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/langlanghwa/github-readme-stats#gh-dark-mode-only)
+[![Hwarang's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=langlanghwa&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/langlanghwa/github-readme-stats#gh-light-mode-only)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hwarang7)](https://solved.ac/hwarang7/)
 
 ## Platforms & Languages
